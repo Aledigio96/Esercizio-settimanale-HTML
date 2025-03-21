@@ -1,0 +1,119 @@
+body {
+  margin: -4px;
+  background-color: #e9edee;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* header*/
+.fascialogo {
+  background-color: #222f3f;
+}
+.fascialogo img {
+  padding: 1rem;
+  max-width: 175px;
+  padding-left: 3rem;
+}
+.funzioni {
+  background-color: #364759;
+  padding-top: 0.6rem;
+  padding-bottom: 0.6rem;
+}
+.funzioni p {
+  color: white;
+  display: inline;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+/* /header */
+/*________________________________________*/
+/* main*/
+.main {
+  padding: 3rem;
+}
+.main a {
+  color: #12abb6;
+  padding-left: 1rem;
+  text-decoration: none;
+}
+.fasciarancio {
+  background-color: #f56600;
+  margin-bottom: 3rem;
+}
+.fasciarancio p {
+  color: white;
+  text-align: center;
+  padding-top: 0.6rem;
+  padding-bottom: 0.6rem;
+}
+
+.fasciaverde {
+  background-image: url("../images/bg-image.png");
+  text-align: center;
+  color: white;
+}
+
+.fasciaverde h1 {
+  padding-top: 6rem;
+  padding-bottom: 1rem;
+}
+.fasciaverde h4 {
+  padding-bottom: 4rem;
+}
+#blocchi {
+  padding: 1rem;
+  border: solid 1px #f3f3f3;
+  background-color: #ffffff;
+  padding-right: 1rem;
+}
+#blocchi h4 {
+  margin-top: 0;
+}
+
+.bloccoimg {
+  display: inline-block;
+}
+.bloccoimg img {
+  max-width: 19rem;
+  min-height: 400px;
+
+  border-radius: 10px;
+  margin-right: 2.5rem;
+  box-shadow: #c9cccd 0px 0px 20px;
+}
+.fascialunga1 img {
+  max-width: 100%;
+  padding-top: 3rem;
+}
+.fascialunga2 img {
+  max-width: 100%;
+}
+.fascialunga1 {
+  text-align: center;
+  padding-bottom: 2rem;
+}
+.fascialunga2 {
+  text-align: center;
+  padding-bottom: 3rem;
+  border-top: solid 1px gray;
+}
+/* /main */
+/* footer*/
+.fasciachiara {
+  background-color: #364759;
+  text-align: center;
+  padding-top: 0.6rem;
+  padding-bottom: 0.6rem;
+}
+.fasciachiara a {
+  color: white;
+  padding-top: 0.6rem;
+  padding-bottom: 0.6rem;
+}
+.fasciascura {
+  background-color: #222f3f;
+  text-align: center;
+}
+.fasciascura img {
+  max-width: 10%;
+  padding: 3rem;
+}
